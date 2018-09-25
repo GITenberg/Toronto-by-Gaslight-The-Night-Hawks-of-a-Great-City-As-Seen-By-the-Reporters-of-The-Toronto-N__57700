@@ -1,11 +1,16 @@
 _repo: Toronto-by-Gaslight-The-Night-Hawks-of-a-Great-City-As-Seen-By-the-Reporters-of-The-Toronto-N__57700
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57700-h/images/cover.jpg
 creator:
   author:
     agent_name: News, The Toronto
     gutenberg_agent_id: '49543'
     url: http://www.gutenberg.org/2009/agents/49543
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57700#Toronto-by-Gaslight-The-Night-Hawks-of-a-Great-City-As-Seen-By-the-Reporters-of-The-Toronto-N_
 gutenberg_issued: '2018-08-15'
 gutenberg_type: Text
 identifiers:
